@@ -11,6 +11,14 @@
  * for use Mini-Rotx retrogames
  * License: GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
  * Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ *
+ * credit lib: 
+ * https://github.com/MHeironimus/ArduinoJoystickLibrary
+ * https://github.com/MHeironimus/ArduinoJoystickLibrary/archive/master.zip
+ * ArduinoJoystickLibrary
+ * Now let’s install the Arduino Joystick Library. 
+ * Download the library. On Arduino IDE, click on Sketch > Include Library > Add .ZIP Library…, browse to the zip file you downloaded and click Open. 
+ * A message should appear at the bottom telling you that “Library added to your libraries. Check “Include library” menu“.
  * 
 */
 
