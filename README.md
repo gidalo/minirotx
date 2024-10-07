@@ -10,4 +10,4 @@ This feature is perfect for optimizing gameplay across a variety of titles, from
 The cabinet also includes an integrated audio system, ensuring clear and immersive sound to enhance the nostalgic gaming atmosphere. 
 Whether you're looking to relive arcade magic or discover new classic titles, this cabinet offers the perfect fusion of the past and present, making it an ideal choice for any retro gaming fan.
 
-https://www.instructables.com/
+https://www.instructables.com/member/matixvision/instructables/
