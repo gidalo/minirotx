@@ -1,1 +1,6 @@
-
+"1941" = vertical
+"donkeykong" = vertical
+"pacman" = vertical
+"galaga" = vertical
+"streetfighter" = horizontal
+"1942" = horizontal
