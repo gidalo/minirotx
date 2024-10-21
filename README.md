@@ -1,4 +1,5 @@
 BETA 1.0 work in progress
+PS use only MiniRotex project thanks.
 
 Introduction to the New Retrogames Cabinet with Screen Rotation System
 
