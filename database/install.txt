@@ -1,1 +1,10 @@
+Copy Script and dbase.txt
 
+Edi files
+
+nano /opt/retropie/configs/all/autostart.sh
+add:
+bash $HOME/RetroPie-BGM-Player/bgm_system.sh -i --autostart
+sudo /usr/local/bin/rdm verticale &
+emulationstation --screenrotate 0 --no-splash & #auto
+/home/pi/database/rdmv2.sh &
