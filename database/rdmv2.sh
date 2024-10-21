@@ -12,7 +12,7 @@
 # File di log da monitorare
 LOG_FILE="/dev/shm/runcommand.log"
 DB_FILE="/home/pi/database/arcade_orientation.txt"
-PROGRAMMA_ESTERNO="/home/pi/rdm_motore_stepper_v4"  # Il tuo eseguibile C
+PROGRAMMA_ESTERNO="/home/pi/rdm_motore_stepper_v4"  # prg
 LAST_GAME=""
 
 # Funzione che controlla se e stato avviato un nuovo gioco
