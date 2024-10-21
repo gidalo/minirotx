@@ -12,5 +12,5 @@ sudo apt install -y wiringpi
 sudo mkdir -p /etc/rdm_motore/
 
 download and copy file:
-sudo cp rdmc /usr/local/bin
-sudo chmod+ /usr/local/bin/rdmc
+cp rdmc_motore_stepper_v4 /home/pi/.
+chmod+ /home/pi/rdmc_motore_stepper_v4
