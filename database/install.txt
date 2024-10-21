@@ -1,8 +1,10 @@
-Copy Script and dbase.txt
+Make dire mkdir -p /home/pi/database 
+and copy "arcade_orientation.txt rdmv2.sh" files in to /home/pi/database
 
-Edi files
+Edit file and add or mod
 
 nano /opt/retropie/configs/all/autostart.sh
+
 add:
 bash $HOME/RetroPie-BGM-Player/bgm_system.sh -i --autostart
 sudo /usr/local/bin/rdm verticale &
