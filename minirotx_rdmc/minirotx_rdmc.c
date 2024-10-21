@@ -10,9 +10,9 @@
 * sudo apt-get update
 * sudo apt install -y wiringpi
 * gpio -v
-* gcc -o rdmc minirotx_rdmc minirotx_rdmc.c -lwiringPi
-* sudo ./rdmc minirotx_rdmc forward
-* sudo ./rdmc minirotx_rdmc backward
+* gcc -o rdmc  minirotx_rdmc.c -lwiringPi
+* sudo ./rdmc  forward
+* sudo ./rdmc backward
 */
 
 #include <wiringPi.h>
