@@ -9,6 +9,8 @@
 
 sudo apt-get update
 sudo apt install -y wiringpi
+sudo mkdir -p /etc/rdm_motore/
+
 download and copy file:
 sudo cp rdmc /usr/local/bin
 sudo chmod+ /usr/local/bin/rdmc
