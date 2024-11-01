@@ -14,3 +14,5 @@ The cabinet also includes an integrated audio system, ensuring clear and immersi
 Whether you're looking to relive arcade magic or discover new classic titles, this cabinet offers the perfect fusion of the past and present, making it an ideal choice for any retro gaming fan.
 
 (https://www.instructables.com/Mini-Rotx-Games/)
+
+<img src="./MiniRotx.png" class="img-responsive" alt=""> </div>
