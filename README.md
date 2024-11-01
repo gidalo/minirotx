@@ -15,4 +15,4 @@ Whether you're looking to relive arcade magic or discover new classic titles, th
 
 (https://www.instructables.com/Mini-Rotx-Games/)
 
-<center><img src="./MiniRotx.png" class="img-responsive" alt="MiniRotx" width="500" height="600"></center>
+<img src="./MiniRotx.png" class="img-responsive" alt="MiniRotx" class="center" width="500" height="600">
