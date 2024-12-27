@@ -13,4 +13,4 @@ sudo mkdir -p /etc/rdm_motore/
 
 download and copy file:
 cp rdmc_motore_stepper_v4 /home/pi/.
-chmod+ /home/pi/rdmc_motore_stepper_v4
+chmod +x /home/pi/rdmc_motore_stepper_v4
